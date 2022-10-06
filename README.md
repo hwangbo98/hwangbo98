@@ -1,4 +1,8 @@
-[![header]![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render))](https://capsule-render.vercel.app/api?)
+### Hi there 👋🏻
+
+I am an undergraduate majoring in Computer Science. 
+
+I am interested in Computer Vision. 👀 🧑🏻‍💻
 
 <h3 align="left"> 💻 Tech Stack 💻</h3>
 <p align="left">
