@@ -18,5 +18,5 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <div align="center">
-![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangbo98&show_icons=true&theme=radical)
+{![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangbo98&show_icons=true&theme=radical)}
 </div>
