@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Welcome!%20render&fontSize=90)](https://capsule-render.vercel.app/api?)
+[![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90)](https://capsule-render.vercel.app/api?)
 
 <h3 align="left"> 💻 Tech Stack 💻</h3>
 <p align="left">
