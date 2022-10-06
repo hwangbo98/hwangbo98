@@ -21,13 +21,13 @@
 <br>
 
 <h3 align="left"> 🧑🏻‍💻 My Github Stats 🧑🏻‍💻 </h3>
-<div align="left half">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangbo98&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align = "right half">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangbo98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<table id="stats"><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=hwangbo98&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangbo98&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+</td></tr>
+</table>  
 
 
 
