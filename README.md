@@ -16,7 +16,8 @@
   <a href="mailto:hwangbo19980@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hwangbo1998@gmail.com"/></a>
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-{![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangbo98&show_icons=true&theme=radical)}
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangbo98&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
