@@ -1,5 +1,5 @@
-<h3 align="center"> 💻 Tech Stack 💻</h3>
-<p align="center">
+<h3 align="left"> 💻 Tech Stack 💻</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-FFD500?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
