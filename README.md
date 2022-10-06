@@ -1,3 +1,5 @@
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)](https://capsule-render.vercel.app/api?)
+
 <h3 align="left"> 💻 Tech Stack 💻</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD500?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
