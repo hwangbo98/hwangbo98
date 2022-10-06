@@ -21,11 +21,11 @@
 <br>
 
 <h3 align="left"> 🧑🏻‍💻 My Github Stats 🧑🏻‍💻 </h3>
-<div align="left">
+<div align="left half">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangbo98&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align = "right">
+<div align = "right half">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangbo98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
